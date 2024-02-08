@@ -8,7 +8,8 @@ layout: page
 
 Hi there! My name is **Zehui Gu (Bella, 顾泽慧)**.
 
-I'm a second-year MS student at NYU with 2+ years of work experience in tech, media, and biotech industries as a data scientist / analyst. My interests lie in  Machine Learning and Natural Language Processing (NLP). Dedicated to contribute to a forward-thinking team, where I can apply my expertise in data analysis, visualization, and machine learning to reveal insights and translate data into strategic business decisions. 
+I'm a second-year MS student at NYU with 2 years of work experience in tech, media, and biotech industries as a data scientist / analyst. My interests lie in  Machine Learning and Natural Language Processing (NLP). Dedicated to contribute to a forward-thinking team, where I can apply my expertise in data analysis, visualization, and machine learning to reveal insights and translate data into strategic business decisions. 
+
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zg745[at]nyu[dot]edu*
 
@@ -20,7 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Professional Experience
 
 - **Jun 2023 - Aug 2023:** Delt4, Data Scientist Intern
-- **Oct 2021 - Jun 2022:** TikTok, Data Analyst
+- **Oct 2021 - Jun 2022:** **TikTok**, Data Analyst
 - **Jan 2021 - Apr 2021:** TikTok, Data Analyst Intern
 - **Jul 2019 - Aug 2019:** Alibaba Group, Data Analyst Intern
 
