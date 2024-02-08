@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://glosolin.github.io/profile.jpg" class="floatpic" width="180" height="240">
+<!-- <img src="https://glosolin.github.io/profile.jpg" class="floatpic" width="180" height="240"> -->
 
 Hi there! My name is **Zehui Gu (Bella, 顾泽慧)**.
 
@@ -15,7 +15,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2022 - May 2024:** New York University (MSc in Data Science)
-- **Sep 2017 - May 2021:** Harvard University (BSc in Mathematicss)
+- **Sep 2017 - May 2021:** Harvard University (bachelor's degree in Mathematics)
 
 <br>
 
@@ -24,9 +24,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Jun 2023 - Aug 2023:** Delt4, Data Scientist Intern
 - **Oct 2021 - Jun 2022:** TikTok, Data Analyst
 - **Jan 2021 - Apr 2021:** TikTok, Data Analyst Intern
-- **Oct 2021 - Jun 2022:** Alibaba Group, Data Analyst Intern (Digital Media & Entertainment)
+- **Oct 2021 - Jun 2022:** Alibaba Group, Data Analyst Intern
 
-Please check my resume for more details (https://glosolin.github.io/file/ZehuiGuResume0207-DS.pdf). 
+Please check my [resume](https://glosolin.github.io/file/ZehuiGuResume0207-DS.pdf) for more details 🔗 
 
 ---
 
