@@ -1,1 +1,1 @@
-This is Personal Website of Zehui (Bella) Gu.
+This is a Personal Website of Zehui (Bella) Gu.
