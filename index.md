@@ -15,16 +15,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2022 - May 2024:** New York University (MSc in Data Science)
-- **Sep 2017 - May 2021:** Harvard University (bachelor's degree in Mathematics)
-
-<br>
+- **Sep 2017 - May 2021:** Harvard University (BS in Mathematics)
 
 ## Professional Experience
 
 - **Jun 2023 - Aug 2023:** Delt4, Data Scientist Intern
 - **Oct 2021 - Jun 2022:** TikTok, Data Analyst
 - **Jan 2021 - Apr 2021:** TikTok, Data Analyst Intern
-- **Oct 2021 - Jun 2022:** Alibaba Group, Data Analyst Intern
+- **Jul 2019 - Aug 2019:** Alibaba Group, Data Analyst Intern
 
 Please check my [resume](https://glosolin.github.io/file/ZehuiGuResume0207-DS.pdf) for more details 🔗 
 

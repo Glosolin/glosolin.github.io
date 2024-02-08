@@ -5,5 +5,6 @@ title: Selected Projects
 ---
 
 # My Project Portfolio
+<br> 
 
 ## [Project 1: Times Series Forecasting Walmart Sales Prediction](https://github.com/Glosolin/Time_Series_Walmart_Sales_Forecasting)
