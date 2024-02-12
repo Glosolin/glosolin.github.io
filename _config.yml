@@ -38,8 +38,8 @@ links:
     url: /
   - title: Portfolio
     url: /portfolio/  
-  - title: Resume
-    url: /resume/
+  # - title: Resume
+  #   url: /resume/
   # - title: Hobbies
   #   url: /hobbies/
 
