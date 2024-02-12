@@ -10,7 +10,7 @@ title: Selected Projects
 ## [Project 1: Topic Modeling on Academic Texts]
 ## [Project 2: Music Recommender System]
 ## [Project 3: Early Sepsis Prediction with ICU data]
-## [Project x: Times Series Forecasting Walmart Sales Prediction](https://glosolin.github.io/Time_Series_Walmart_Sales_Forecasting/)  
+## [Project x: Times Series Analysis Walmart Sales Prediction](https://glosolin.github.io/Time_Series_Walmart_Sales_Forecasting/)  
 Developed time series models using ARIMA/SARIMA and Gaussian Processes to predict Walmart's weekly sales, enhancing decision-making with precise demand predictions.
 - Forecasted Walmart's weekly sales employing ARIMA/SARIMA and Gaussian Processes, leveraging time series models to support data-driven decision-making.
 - Conducted drill-down analysis and aggregated datasets to optimize model performance across different product categories and states, enhancing forecast granularity.
